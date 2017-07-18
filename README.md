@@ -12,7 +12,7 @@ The grader or other viewer may find my applicable project deliverables at:
 ## Installation
 
 * Clone this repo to your computer or local server.
-* Navigate to the folder using `cd udacity-pythoneda-project` in the terminal/shell.
+* Navigate to the folder using `cd hof-prediction` in the terminal/shell.
 * Open the iPython Notebook using `jupyter notebook --browser YOUR_BROWSER`, where `YOUR_BROWSER` is the browser you want to open the Notebook in, e.g. `chrome`.
 
 # Libraries
